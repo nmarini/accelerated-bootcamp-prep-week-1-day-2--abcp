@@ -43,3 +43,8 @@ function removeElementFromEndOfArray(array) {
   return array.slice(0, array.legnth-1)
 
 }
+
+//challenge : re,ove an element from the middle of the array / at element and return a COPY of the original array, minus that elemet
+function nonDestrictivelyRemoveAtIndex(array, index) {
+//slice and spread??   
+}
