@@ -8,5 +8,5 @@ function greaterThanTen (number) {
   if (number > 10)
 {return number} 
 else
- {return "Sorry, that's too small"} }
+{return "Sorry, that's too small"} }
 
