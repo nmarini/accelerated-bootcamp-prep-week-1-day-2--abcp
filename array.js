@@ -44,7 +44,7 @@ function removeElementFromEndOfArray(array) {
 
 }
 
-//challenge : re,ove an element from the middle of the array / at element and return a COPY of the original array, minus that elemet
+//challenge : re,ove an element from the middle of the array / at a given index and return a COPY of the original array, minus that elemet
 function nonDestrictivelyRemoveAtIndex(array, index) {
 //slice and spread??   
 }
